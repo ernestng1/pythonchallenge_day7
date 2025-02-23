@@ -7,6 +7,9 @@
   <li>input, import and print function</li>
 </ul>
 
+<h2>Flow Chart of Hangman Game</h2>
+![Flowchart](https://github.com/ernestng1/pythonchallenge_day7/raw/main/hangman_game_logic.png)
+
 <h2>Why am I doing this?</h2>
 <p>I have learned python before in school but I hope to revisit some of the python concepts that I may have forgotten and at the same time delve further into python, especially in the field of data science and visualisation.</p>
 
