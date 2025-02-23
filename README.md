@@ -1,9 +1,10 @@
-<h1>Day 1 of the 100 Days of Code: The Complete Python Pro Bootcamp</h1>
-<p>For the Day 1 challenge, I created a Band Name Generator concatenates your hometown's name and pet's name to form a band name. This is a culmination of the teaching points that were shared in the tutorial, including the following but not limited to</p>
+<h1>Day 7 of the 100 Days of Code: The Complete Python Pro Bootcamp</h1>
+<p>For the Day 7 challenge, I created a Hangman game, where a random word is chosen from a word list and players (with a limited number of lives) have to try to guess the word. This is a culmination of the teaching points that were shared in the tutorial, including the following but not limited to</p>
 <ul>
-  <li>print function</li>
-  <li>variable and naming conventions</li>
-  <li>input function</li>
+  <li>creation of a flow chart </li>
+  <li>while and for loop</li>
+  <li>if, else and elif statements</li>
+  <li>input, import and print function</li>
 </ul>
 
 <h2>Why am I doing this?</h2>
